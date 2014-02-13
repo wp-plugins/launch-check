@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: cwhitmore, dholloran
+Contributors: matchboxdesigngroup, cwhitmore, dholloran
 Tags: pre-launch checklist, pre-launch, checklist, Yoast Analytics, SEO, Google Analytics
 Requires at least: 3.5
 Tested up to: 3.7
@@ -16,10 +16,6 @@ Launch Check is a WordPress plugin that ensures you have made your site visible 
 Activate it when you are ready to launch your site live and it will alert you if need to make your site public, change the tagline or add the Google Analytics tracking snippet.
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload the `launch-check` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
