@@ -28,7 +28,7 @@ None so far...
 If you have any problems or want to make a feature request please submit an [issue](https://github.com/matchboxdesigngroup/launch-check/issues) on GitHub.
 
 == Changelog ==
-= 1.2 =
+= 1.1 =
 * Updated plugin to use new [Universal Analytics](http://wordpress.org/plugins/universal-analytics/) plugin.  A simple way to add Google Analytics to your site
 * Updated alerts so that they don't show on plugin details and update pages
 
