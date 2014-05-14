@@ -2,8 +2,8 @@
 Contributors: matchboxdesigngroup, cwhitmore, dholloran
 Tags: pre-launch checklist, pre-launch, checklist, Yoast Analytics, SEO, Google Analytics
 Requires at least: 3.5
-Tested up to: 3.8.1
-Stable tag: 1.0.0
+Tested up to: 3.9.1
+Stable tag: 1.1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/
 
@@ -28,6 +28,9 @@ None so far...
 If you have any problems or want to make a feature request please submit an [issue](https://github.com/matchboxdesigngroup/launch-check/issues) on GitHub.
 
 == Changelog ==
+= 1.2 =
+* Updated plugin to use new [Universal Analytics](http://wordpress.org/plugins/universal-analytics/) plugin.  A simple way to add Google Analytics to your site
+* Updated alerts so that they don't show on plugin details and update pages
 
 = 1.0 =
 * Initial Release
